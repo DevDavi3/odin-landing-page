@@ -80,3 +80,42 @@ ul
 {
     font-size: 18px;
 }
+
+.info  h4
+{
+   text-align: center; 
+   padding: 3%;
+   font-size: 36px;
+   color: #1F2937;
+   font-size: 900;
+}
+
+.content
+{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    justify-content: space-around;
+    flex-flow: row wrap;
+}
+
+.content div 
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 10%;
+    
+}
+
+.content-img
+{
+    width: 150px;
+}
