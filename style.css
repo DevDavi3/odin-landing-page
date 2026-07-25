@@ -141,3 +141,48 @@ ul
     align-self: flex-end;
     font-weight: bold;
 }
+
+.cto
+{
+    display: flex;
+    margin-top: 10%;
+    padding: 5%;
+    background-color: #3882F6;
+
+    align-items: center;
+
+    border-radius: 30px;
+
+    margin-right: 100px;
+    margin-left: 100px;
+    justify-content: space-around;
+    color: white;
+     margin-bottom: 10%;
+
+}
+
+.call
+{
+    font-size: 48px;
+    margin-bottom: 5px;
+}
+
+.contact
+{
+    border:2px solid #F9FAF8;
+    font-size: 32px;
+    padding: 10px;
+    border-radius: 20px;
+   
+}
+
+footer
+{
+    margin-top: auto;
+    display:flex;
+    justify-content: center;
+    background-color: gray;
+    font-size: 22px;
+    color: white;
+    padding: 10px;
+}
