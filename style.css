@@ -119,3 +119,25 @@ ul
 {
     width: 150px;
 }
+
+.test
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 60px;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 300;
+    color: #1F2937;
+    
+    
+}
+
+#cus
+{
+    align-self: flex-end;
+    font-weight: bold;
+}
